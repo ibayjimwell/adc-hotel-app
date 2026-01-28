@@ -49,7 +49,6 @@ const navItems: NavItem[] = [
   { label: "Billing / Invoices", href: "/invoices", icon: Receipt },
   { label: "Payments", href: "/payments", icon: CreditCard },
   { label: "Staff", href: "/staff", icon: UserCog },
-  { label: "Reports", href: "/reports", icon: BarChart3 },
 ]
 
 export function Sidebar() {
