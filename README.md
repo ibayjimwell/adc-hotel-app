@@ -4,7 +4,7 @@
 ![ADC Image](https://raw.githubusercontent.com/ibayjimwell/adc-hotel-app/refs/heads/main/public/app-image.png)
 
 ## 🔗Live Demo
-👉[madc-hotel-app.vercel.app](https://adc-hotel-app.vercel.app/)
+👉[adc-hotel-app.vercel.app](https://adc-hotel-app.vercel.app/)
 
 ## 📃Description
 It's a **Management System** to manage hotel bookings, check-ins, guests and almost all hotel operations.
