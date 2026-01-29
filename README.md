@@ -141,13 +141,3 @@ GitHub: [https://github.com/ibayjimwell](https://github.com/ibayjimwell)
 * Dashboard analytics
 * Reports export
 * Mobile responsive enhancements
-
----
-
-If you want, next we can add:
-
-* Screenshots section
-* System architecture diagram
-* Folder structure explanation
-
-Your project already looks like a **real startup product** btw 🚀
